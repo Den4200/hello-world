@@ -30,6 +30,7 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - Pseudo
 - Python 2
 - Python 3
+- PL/SQL
 - PHP
 - R
 - Ruby
