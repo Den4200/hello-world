@@ -11,6 +11,7 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - C#
 - C++
 - Cobol
+- Cow
 - Fortran
 - Go
 - Groovy
