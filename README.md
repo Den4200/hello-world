@@ -4,6 +4,7 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 ## Implementations
 - Ada
 - Assembly
+- Basic
 - Bash
 - Brainfuck
 - C
