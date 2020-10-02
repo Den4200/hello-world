@@ -43,6 +43,7 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - [Ruby](ruby.rb)
 - [Rust](rust.rs)
 - [Scala](scala.scala)
+- [StarDot](stardot.stardot)
 - [Swift](swift.swift)
 - [TypeScript](typescript.ts)
 - [VB.NET](vb.net.vb)
