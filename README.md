@@ -10,6 +10,7 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - C#
 - C++
 - CoffeeScript
+- Clipper
 - Fortran
 - Go
 - Groovy
@@ -19,8 +20,10 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - JavaScript
 - Kotlin
 - Lua
+- Logo
 - Pascal
 - Perl
+- Processing
 - Python 3
 - PHP
 - R
