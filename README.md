@@ -21,6 +21,7 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - Kotlin
 - Lua
 - Logo
+- Objective-c
 - Pascal
 - Perl
 - Processing
