@@ -2,34 +2,35 @@
 This is a repository full of implementations of the classic, "Hello, world!", in different languages.
 
 ## Implementations
-- Ada
-- Bash
-- BASIC
-- Batch
-- Brainfuck
-- C
-- C#
-- C++
-- Chicken
-- CoffeeScript
-- Fortran
-- Go
-- Groovy
-- Haskell
-- Java
-- JavaScript
-- Kotlin
-- Lua
-- Pascal
-- Perl
-- Python 2
-- Python 3
-- PHP
-- R
-- Ruby
-- Rust
-- Scala
-- Swift
-- TypeScript
-- VB.NET
-- Zig
+- [Ada](ada.ada)
+- [Aime](aime.aime)
+- [Bash] (bash.bash)
+- [BASIC] (basic.bas)
+- [Batch] (batch.bat)
+- [Brainfuck] (brainfuck.bf)
+- [C] (c.c)
+- [C#] (cs.cs)
+- [C++] (cpp.cpp)
+- [Chicken] (chicken.chicken)
+- [CoffeeScript] (coffeescript.coffee)
+- [Fortran] (fortran.f95)
+- [Go] (go.go)
+- [Groovy] (groovy.groovy)
+- [Haskell] (haskell.hs)
+- [Java] (java.java)
+- [JavaScript] (javascript.js)
+- [Kotlin] (kotlin.kt)
+- [Lua] (lua.lua)
+- [Pascal] (pascal.pas)
+- [Perl] (perl.pl)
+- [Python 2] (python2.py)
+- [Python 3] (python3.py)
+- [PHP] (php.php)
+- [R] (r.r)
+- [Ruby] (ruby.rb)
+- [Rust] (rust.rs)
+- [Scala] (scala.scala)
+- [Swift] (swift.swift)
+- [TypeScript] (typescript.ts)
+- [VB.NET] (vb.net.vb)
+- [Zig] (zig.zig)
