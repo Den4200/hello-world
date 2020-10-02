@@ -23,6 +23,7 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - Kotlin
 - Lisp
 - Logo
+- Lolcode
 - Pascal
 - Perl
 - Python 3
