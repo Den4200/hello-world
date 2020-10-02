@@ -15,6 +15,7 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - Java
 - JavaScript
 - Kotlin
+- Lua
 - Pascal
 - Perl
 - Python 3
