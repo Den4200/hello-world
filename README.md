@@ -12,16 +12,20 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - C++
 - Chicken
 - CoffeeScript
+- Clipper
 - Fortran
 - Go
 - Groovy
 - Haskell
+- Html
 - Java
 - JavaScript
 - Kotlin
 - Lua
+- Logo
 - Pascal
 - Perl
+- Processing
 - Python 2
 - Python 3
 - PHP
