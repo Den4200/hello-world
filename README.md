@@ -10,6 +10,7 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - C
 - C#
 - C++
+- Cobol
 - Fortran
 - Go
 - Groovy
