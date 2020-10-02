@@ -3,6 +3,7 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 
 ## Implementations
 - Bash
+- Brainfuck
 - C
 - C#
 - C++
