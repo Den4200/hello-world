@@ -18,6 +18,8 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - Haskell
 - Java
 - JavaScript
+- Julia
+- Matlab
 - Kotlin
 - Lua
 - Pascal
@@ -31,5 +33,9 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - Scala
 - Swift
 - TypeScript
+- VBScript
+- Verilog
+- Vim
+- XSLT
 - VB.NET
 - Zig
