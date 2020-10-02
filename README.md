@@ -13,16 +13,20 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - Chicken
 - CoffeeScript
 - Dart
+- Elixr
 - Fortran
 - Go
 - Groovy
 - Haskell
 - Java
 - JavaScript
+- Julia
 - Kotlin
 - Lua
+- Octave
 - Pascal
 - Perl
+- Pseudo
 - Python 2
 - Python 3
 - PHP
@@ -34,3 +38,4 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - TypeScript
 - VB.NET
 - Zig
+
