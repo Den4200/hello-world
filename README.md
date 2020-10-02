@@ -29,6 +29,7 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - Objective-C
 - Pascal
 - Perl
+- Prolog
 - Python 3
 - PHP
 - R
