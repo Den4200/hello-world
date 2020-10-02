@@ -26,6 +26,7 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - Lolcode
 - Lua
 - MATLAB
+- Objective-C
 - Pascal
 - Perl
 - Python 3
