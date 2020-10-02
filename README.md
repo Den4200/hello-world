@@ -20,6 +20,7 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - JavaScript
 - Kotlin
 - Lua
+- Nasm(x86)
 - Pascal
 - Perl
 - Python 2
