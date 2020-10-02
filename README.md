@@ -33,3 +33,4 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - TypeScript
 - VB.NET
 - Zig
+- Terraform
