@@ -16,6 +16,7 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - Go
 - Groovy
 - Haskell
+  Html
 - Java
 - JavaScript
 - Kotlin
