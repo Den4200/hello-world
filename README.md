@@ -7,6 +7,7 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - C
 - C#
 - C++
+- CoffeeScript
 - Fortran
 - Go
 - Groovy
