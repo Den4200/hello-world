@@ -12,6 +12,7 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - C++
 - Chicken
 - CoffeeScript
+- Dart
 - Elixr
 - Fortran
 - Go
