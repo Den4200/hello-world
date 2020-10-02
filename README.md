@@ -1,4 +1,5 @@
 # Hello, world!
+
 This is a repository full of implementations of the classic, "Hello, world!", in different languages.
 
 ## Implementations
@@ -38,6 +39,7 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - [Python 2](python2.py)
 - [Python 3](python3.py)
 - [R](r.r)
+- [Racket](racket.rkt)
 - [Ruby](ruby.rb)
 - [Rust](rust.rs)
 - [Scala](scala.scala)
