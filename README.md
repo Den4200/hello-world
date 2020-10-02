@@ -13,6 +13,7 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - Cobol
 - Cow
 - Delphi
+- Erlang
 - Fortran
 - Go
 - Groovy
