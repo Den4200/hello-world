@@ -7,6 +7,7 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - C++
 - Java
 - JavaScript
+- Kotlin
 - Python
 - Rust
 - TypeScript
