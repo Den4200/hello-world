@@ -27,5 +27,6 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - TypeScript
 - VBScript
 - Verilog
+- Vim
 - XSLT
 
