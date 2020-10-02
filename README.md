@@ -4,11 +4,13 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 ## Implementations
 - Ada
 - Bash
+- BASIC
 - Batch
 - Brainfuck
 - C
 - C#
 - C++
+- Chicken
 - CoffeeScript
 - Clipper
 - Fortran
@@ -25,6 +27,7 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - Pascal
 - Perl
 - Processing
+- Python 2
 - Python 3
 - PHP
 - R
