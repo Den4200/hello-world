@@ -1,0 +1,11 @@
+[
+    header(1)[
+        Hello,
+    ]
+    style[
+        $text-color: red;
+        color: $text-color;
+    ][
+        world!
+    ]
+]
