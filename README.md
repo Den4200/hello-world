@@ -9,6 +9,7 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - Fortran
 - Go
 - Groovy
+- Haskell
 - Java
 - JavaScript
 - Kotlin
