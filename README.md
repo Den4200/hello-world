@@ -1,7 +1,9 @@
 # Hello, world!
+
 This is a repository full of implementations of the classic, "Hello, world!", in different languages.
 
 ## Implementations
+
 - Ada
 - Bash
 - BASIC
@@ -12,20 +14,30 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - C++
 - Chicken
 - CoffeeScript
+- Cow
+- Dart
+- Elixr
 - Fortran
 - Go
 - Groovy
 - Haskell
-- INTERCAL
+- Html
+- Intercal
 - Java
 - JavaScript
+- Julia
 - Kotlin
 - Lua
+- Nasm (x86)
+- OCaml
+- Octave
 - Pascal
 - Perl
+- PHP
+- PL/SQL
+- Pseudo
 - Python 2
 - Python 3
-- PHP
 - R
 - Ruby
 - Rust
