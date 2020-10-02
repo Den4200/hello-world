@@ -22,6 +22,7 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - Julia
 - Kotlin
 - Lua
+- Octave
 - Pascal
 - Perl
 - Python 2
