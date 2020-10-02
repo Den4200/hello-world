@@ -5,6 +5,7 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - C
 - C#
 - C++
+- Go
 - Java
 - JavaScript
 - Python 3
