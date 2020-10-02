@@ -25,6 +25,7 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - Octave
 - Pascal
 - Perl
+- Pseudo
 - Python 2
 - Python 3
 - PHP
