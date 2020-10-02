@@ -20,6 +20,7 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - Lua
 - Pascal
 - Perl
+- Python 2
 - Python 3
 - PHP
 - R
