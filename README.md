@@ -13,8 +13,8 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - Java
 - JavaScript
 - Kotlin
-- Perl
 - Pascal
+- Perl
 - Python 3
 - PHP
 - Ruby
