@@ -27,11 +27,11 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - Octave
 - Pascal
 - Perl
+- PHP
+- PL/SQL
 - Pseudo
 - Python 2
 - Python 3
-- PL/SQL
-- PHP
 - R
 - Ruby
 - Rust
@@ -40,4 +40,3 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - TypeScript
 - VB.NET
 - Zig
-
