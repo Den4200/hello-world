@@ -1,0 +1,1 @@
+:- initialization(write('Hello, World!')).
