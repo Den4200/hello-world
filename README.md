@@ -29,6 +29,7 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - [Kotlin](kotlin.kt)
 - [Lua](lua.lua)
 - [Nasm (x86)](nasm.asm)
+- [Nial](nial.ndf)
 - [OCaml](ocaml.ml)
 - [Octave](octave.m)
 - [Pascal](pascal.pas)
