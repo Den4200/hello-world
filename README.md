@@ -40,6 +40,7 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - [Python 3](python3.py)
 - [R](r.r)
 - [Racket](racket.rkt)
+- [REBOL](rebol.reb) 
 - [Ruby](ruby.rb)
 - [Rust](rust.rs)
 - [Scala](scala.scala)
