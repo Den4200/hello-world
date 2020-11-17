@@ -18,6 +18,7 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - [Cow](cow.cow)
 - [Dart](dart.dart)
 - [Elixir](elixir.ex)
+- [Erlang](erlang.erl)
 - [Fortran](fortran.f95)
 - [Go](go.go)
 - [Groovy](groovy.groovy)
