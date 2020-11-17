@@ -13,6 +13,7 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - [C#](cs.cs)
 - [C++](cpp.cpp)
 - [Chicken](chicken.chicken)
+- [Clojure](clojure.clj)
 - [CoffeeScript](coffeescript.coffee)
 - [Cow](cow.cow)
 - [Dart](dart.dart)
