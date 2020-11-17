@@ -19,6 +19,7 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - [Dart](dart.dart)
 - [Elixir](elixir.ex)
 - [Erlang](erlang.erl)
+- [F#](fs.fs)
 - [Fortran](fortran.f95)
 - [Go](go.go)
 - [Groovy](groovy.groovy)
