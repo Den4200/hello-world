@@ -33,6 +33,7 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - [Lua](lua.lua)
 - [Nasm (x86)](nasm.asm)
 - [Nial](nial.ndf)
+- [Nim](nim.nim)
 - [OCaml](ocaml.ml)
 - [Octave](octave.m)
 - [Pascal](pascal.pas)
