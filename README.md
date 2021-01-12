@@ -46,6 +46,7 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - [Scala](scala.scala)
 - [StarDot](stardot.stardot)
 - [Swift](swift.swift)
+- [MS Small Basic](helloworld.sb)
 - [TypeScript](typescript.ts)
 - [VB.NET](vb.net.vb)
 - [Zig](zig.zig)
