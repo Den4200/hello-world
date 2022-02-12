@@ -50,3 +50,6 @@ This is a repository full of implementations of the classic, "Hello, world!", in
 - [TypeScript](typescript.ts)
 - [VB.NET](vb.net.vb)
 - [Zig](zig.zig)
+- [Nim](nim.nim)
+- [V](v.v)
+- [PureScript](purescript.purs)
